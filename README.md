@@ -1,1 +1,1 @@
-Alx low level languaage - C prograamming
+Alx low level languaage - C programming
